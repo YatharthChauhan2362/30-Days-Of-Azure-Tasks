@@ -2,7 +2,7 @@
 
 "30 Days of Azure Tasks" is likely a program or challenge that involves completing various tasks related to Azure over the course of 30 days. These tasks could include learning about different Azure services, building and deploying applications on Azure, or configuring and managing Azure resources.
 
-## Task-1:
+## Task 1
 
 1. [Create a Vnet and set up a subnet on the created Vnet]()
 2. [Create a VM on the subnet and access VM]()
@@ -25,7 +25,7 @@
 4. [Testing Vnet]()
 5. [Developing Vnet and Configure Hub and Spoke Architecture and verify it's working by launching VM in each VNet and ping from Management VM to every other VM.]()
 
-## 5
+## Task 5
 
 1. [Learn about Load balancer and their types]()
 2. [Create Internal and External Load Balancer.]()
@@ -35,11 +35,11 @@
 1. [Learn about VPNs and their types]()
 2. [Create Point to Site on Azure, A Point-to-Site (P2S) VPN gateway lets you create a secure connection to your virtual network from an individual computer]()
 
-## 7
+## Task 7
 
 1. [Create a Site-to-Site on Azure and explore the use case of Site-to-Site VPN gateway and figure out how Site-to-Site VPN is different from Point-to-Site VPN?]()
 
-## 8
+## Task 8
 
 1. [Create a Vnet with 2 Subnets]()
 2. [Web-Tier: Linux VM, Windows VM.]()
