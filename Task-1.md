@@ -4,7 +4,7 @@ To create a Vnet and set up a subnet on the created Vnet in Azure, you can use t
 
 Here is an example of how to create a Vnet and a subnet using Azure CLI:
 
-First, log in to your Azure account using the command **az login**
+First, log in to your Azure account using the command _az login_
 
 Create a resource group with the command az group create --name myResourceGroup --location eastus
 
