@@ -7,7 +7,7 @@
 
 ## Task-1
 
-1. [Create a Vnet and set up a subnet on the created Vnet]()
+1. [Create a Vnet and set up a subnet on the created Vnet](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-1.md#create-a-vnet-and-set-up-a-subnet-on-the-created-vnet)
 2. [Create a VM on the subnet and access VM]()
 
 ## Task-2
