@@ -1,4 +1,4 @@
-# Create a Vnet and set up a subnet on the created Vnet
+# 1. Create a Vnet and set up a subnet on the created Vnet
 
 To create a Vnet and set up a subnet on the created Vnet in Azure, you can use the Azure Portal, Azure CLI, or Azure PowerShell.
 
