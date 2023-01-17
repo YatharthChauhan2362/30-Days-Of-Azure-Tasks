@@ -12,8 +12,8 @@
 
 ## Task-2
 
-1. [Create Private and Public Subnets in the above created Vnet]()
-2. [Create a VM and attach multiple NIC with it]()
+1. [Create Private and Public Subnets in the above created Vnet](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-2.md#1-create-private-and-public-subnets-in-the-above-created-vnet)
+2. [Create a VM and attach multiple NIC with it](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-2.md#2-create-a-vm-and-attach-multiple-nic-with-it)
 
 ## Task-3
 
