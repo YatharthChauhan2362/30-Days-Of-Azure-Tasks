@@ -17,63 +17,63 @@
 
 ## Task-3
 
-1. [Create multiple VMs (i.e.) VM1 and VM2 in two different Virtual networks.]()
-2. [Create a Network Security Group to establish connection among VMs to ping each other and understand how the priority works.]()
+1. [Create multiple VMs (i.e.) VM1 and VM2 in two different Virtual networks.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-3.md#1-create-private-and-public-subnets-in-the-above-created-vnet)
+2. [Create a Network Security Group to establish connection among VMs to ping each other and understand how the priority works.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-3.md#2-create-a-network-security-group-to-establish-connection-among-vms-to-ping-each-other-and-understand-how-the-priority-works)
 
 ## Task-4
 
-1. [Create 4 VNets]()
-2. [Management Vnet (HUB)]()
-3. [Production Vnet]()
-4. [Testing Vnet]()
-5. [Developing Vnet and Configure Hub and Spoke Architecture and verify it's working by launching VM in each VNet and ping from Management VM to every other VM.]()
+1. [Create 4 VNets](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-4.md#1-create-4-vnets)
+2. [Management Vnet (HUB)](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-4.md#2-management-vnet-hub)
+3. [Production Vnet](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-4.md#3-production-vnet)
+4. [Testing Vnet](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-4.md#4-testing-vnet)
+5. [Developing Vnet and Configure Hub and Spoke Architecture and verify it's working by launching VM in each VNet and ping from Management VM to every other VM.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-4.md#5-developing-vnet-and-configure-hub-and-spoke-architecture-and-verify-its-working-by-launching-vm-in-each-vnet-and-ping-from-management-vm-to-every-other-vm)
 
 ## Task-5
 
-1. [Learn about Load balancer and their types]()
-2. [Create Internal and External Load Balancer.]()
+1. [Learn about Load balancer and their types](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-5.md#1-learn-about-load-balancer-and-their-types)
+2. [Create Internal and External Load Balancer.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-5.md#2-create-internal-and-external-load-balancer)
 
 ## Task-6
 
-1. [Learn about VPNs and their types]()
-2. [Create Point to Site on Azure, A Point-to-Site (P2S) VPN gateway lets you create a secure connection to your virtual network from an individual computer]()
+1. [Learn about VPNs and their types](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-6.md#1-learn-about-vpns-and-their-types)
+2. [Create Point to Site on Azure, A Point-to-Site (P2S) VPN gateway lets you create a secure connection to your virtual network from an individual computer](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-6.md#2-create-point-to-site-on-azure-a-point-to-site-p2s-vpn-gateway-lets-you-create-a-secure-connection-to-your-virtual-network-from-an-individual-computer)
 
 ## Task-7
 
-1. [Create a Site-to-Site on Azure and explore the use case of Site-to-Site VPN gateway and figure out how Site-to-Site VPN is different from Point-to-Site VPN?]()
+1. [Create a Site-to-Site on Azure and explore the use case of Site-to-Site VPN gateway and figure out how Site-to-Site VPN is different from Point-to-Site VPN?](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-7.md#1-create-a-site-to-site-on-azure-and-explore-the-use-case-of-site-to-site-vpn-gateway-and-figure-out-how-site-to-site-vpn-is-different-from-point-to-site-vpn)
 
 ## Task-8
 
-1. [Create a Vnet with 2 Subnets]()
-2. [Web-Tier: Linux VM, Windows VM.]()
-3. [Data-Tier: SQL DB]()
-4. [Launch VMS into Availability Set]()
-5. [Create an External and Internal Load Balancer and verify it is working.]()
+1. [Create a Vnet with 2 Subnets](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-8.md#1-create-a-vnet-with-2-subnets)
+2. [Web-Tier: Linux VM, Windows VM.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-8.md#2-web-tier-linux-vm-windows-vm)
+3. [Data-Tier: SQL DB](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-8.md#3-data-tier-sql-db)
+4. [Launch VMS into Availability Set](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-8.md#4-launch-vms-into-availability-set)
+5. [Create an External and Internal Load Balancer and verify it is working.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-8.md#5-create-an-external-and-internal-load-balancer-and-verify-it-is-working)
 
 ## Task-9
 
-1. [Create a VHD of an existing VM and store]()
-2. [it into Storage Account and using that VHD Create a new VM.]()
+1. [Create a VHD of an existing VM and store](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-9.md#1-create-a-vhd-of-an-existing-vm-and-store)
+2. [it into Storage Account and using that VHD Create a new VM.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-9.md#2-it-into-storage-account-and-using-that-vhd-create-a-new-vm)
 
 ## Task-10
 
-1. [Create a Vnet with single subnet and Create a VM.]()
-2. [Schedule a Daily backup of VM at 3:AM using vault]()
-3. [Create an Alert rule for VM CPU percentage:]()
-4. [Criteria: CPU% More Than 80%, There Should be an alert on email.]()
+1. [Create a Vnet with single subnet and Create a VM.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-10.md#1-create-a-vnet-with-single-subnet-and-create-a-vm)
+2. [Schedule a Daily backup of VM at 3:AM using vault](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-10.md#2-schedule-a-daily-backup-of-vm-at-3am-using-vault)
+3. [Create an Alert rule for VM CPU percentage:](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-10.md#3-create-an-alert-rule-for-vm-cpu-percentage)
+4. [Criteria: CPU% More Than 80%, There Should be an alert on email.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-10.md#4-criteria-cpu-more-than-80-there-should-be-an-alert-on-email)
 
 ## Task-11
 
-1. [Create a sample .NET application and host it on Azure App Services.]()
-2. [Create an application gateway and access Azure App service through Azure Application gateway.]()
+1. [Create a sample .NET application and host it on Azure App Services.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-11.md#1-create-a-sample-net-application-and-host-it-on-azure-app-services)
+2. [Create an application gateway and access Azure App service through Azure Application gateway.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-11.md#2-create-an-application-gateway-and-access-azure-app-service-through-azure-application-gateway)
 
 ## Task-12
 
-1. [Launch a Linux VM and Install Docker services on that VM.]()
-2. [Launch a Docker container and set up an Apache/ Nginx server over that container.]()
-3. [Create a simple HTML page to launch over the web server.]()
-4. [Configure the Docker container such that when we start the VM, the Docker Services are up and running and the container is launched automatically such that the web server is turned to active status to reflect the web page just after Starting VM.]()
-5. [Perform the same task using Docker File]()
+1. [Launch a Linux VM and Install Docker services on that VM.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-12.md#1-launch-a-linux-vm-and-install-docker-services-on-that-vm)
+2. [Launch a Docker container and set up an Apache/ Nginx server over that container.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-12.md#2-launch-a-docker-container-and-set-up-an-apache-nginx-server-over-that-container)
+3. [Create a simple HTML page to launch over the web server.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-12.md#3-create-a-simple-html-page-to-launch-over-the-web-server)
+4. [Configure the Docker container such that when we start the VM, the Docker Services are up and running and the container is launched automatically such that the web server is turned to active status to reflect the web page just after Starting VM.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-12.md#4-configure-the-docker-container-such-that-when-we-start-the-vm-the-docker-services-are-up-and-running-and-the-container-is-launched-automatically-such-that-the-web-server-is-turned-to-active-status-to-reflect-the-web-page-just-after-starting-vm)
+5. [Perform the same task using Docker File](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-12.md#5-perform-the-same-task-using-docker-file)
 
 ## Task-13
 
