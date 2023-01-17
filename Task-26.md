@@ -1,1 +1,1 @@
-# Coming Soon
+# 1. Use Pipeline variable while configuring pipelines.
