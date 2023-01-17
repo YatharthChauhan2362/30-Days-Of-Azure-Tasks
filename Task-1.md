@@ -14,7 +14,7 @@
 - Each subnet can have its own security rules, such as firewall rules, and can be used to host different types of resources, such as virtual machines, load balancers, and virtual appliances.
 - Subnets can also be used to control access to resources in Azure by using network security groups (NSGs) and route tables.
 
-To create a Vnet and set up a subnet on the created Vnet in Azure, you can use the Azure Portal, Azure CLI, or Azure PowerShell.
+### To create a Vnet and set up a subnet on the created Vnet in Azure, you can use the Azure Portal, Azure CLI, or Azure PowerShell.
 
 Here is an example of how to create a Vnet and a subnet using Azure CLI:
 
