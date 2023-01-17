@@ -77,10 +77,10 @@
 
 ## Task-13
 
-1. [Create a Bridge Network.]()
-2. [Launch two Docker Containers]()
-3. [Assign both containers with same network]()
-4. [Find out if this bridge network works like a switch between these two containers and like a router for any external IP.]()
+1. [Create a Bridge Network.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-13.md#1-create-a-bridge-network)
+2. [Launch two Docker Containers](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-13.md#2-launch-two-docker-containers)
+3. [Assign both containers with same network](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-13.md#3-assign-both-containers-with-same-network)
+4. [Find out if this bridge network works like a switch between these two containers and like a router for any external IP.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-13.md#4-find-out-if-this-bridge-network-works-like-a-switch-between-these-two-containers-and-like-a-router-for-any-external-ip)
 
 ## Task-14
 
