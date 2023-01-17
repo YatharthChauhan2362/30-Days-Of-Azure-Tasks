@@ -84,84 +84,83 @@
 
 ## Task-14
 
-1. [Mount a volume/ directory from the host system to a Docker container.]()
+1. [Mount a volume/ directory from the host system to a Docker container.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-14.md#1-mount-a-volume-directory-from-the-host-system-to-a-docker-container)
 
 ## Task-15
 
-1. [Understand Kubernetes Architecture.]()
-2. [Launch a Linux VM]()
-3. [Setup Kubeadm on the Linux VM]()
-4. [Launch a Nginx pod and expose it using the NodePort and access the web server.]()
-5. [Difference between Kubeadm, Kubectl and Kubelet.]()
+1. [Understand Kubernetes Architecture.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-15.md#1-understand-kubernetes-architecture)
+2. [Launch a Linux VM](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-15.md#2-launch-a-linux-vm)
+3. [Setup Kubeadm on the Linux VM](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-15.md#3-setup-kubeadm-on-the-linux-vm)
+4. [Launch a Nginx pod and expose it using the NodePort and access the web server.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-15.md#4-launch-a-nginx-pod-and-expose-it-using-the-nodeport-and-access-the-web-server)
+5. [Difference between Kubeadm, Kubectl and Kubelet.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-15.md#5-difference-between-kubeadm-kubectl-and-kubelet)
 
 ## Task-16
 
-1. [Setup an Azure Kubernetes Services: Manual Scaling, Azure Vnet, Azure network policy]()
-2. [Deploy pods, and expose the pod using LoadBalancer service.]()
-3. [Perform the same task using Declarative approach as well.]()
+1. [Setup an Azure Kubernetes Services: Manual Scaling, Azure Vnet, Azure network policy](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-16.md#1-setup-an-azure-kubernetes-services-manual-scaling-azure-vnet-azure-network-policy)
+2. [Deploy pods, and expose the pod using LoadBalancer service.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-16.md#2-deploy-pods-and-expose-the-pod-using-loadbalancer-service)
+3. [Perform the same task using Declarative approach as well.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-16.md#3-perform-the-same-task-using-declarative-approach-as-well)
 
 ## Task-17
 
-1. [Create a replica set]()
-2. [Expose it using LoadBalancer service]()
-3. [Change the number replicas and verify]()
-4. [Remove the pods and verify if new pods are getting created automatically.]()
-5. [Perform the same task using Declarative approach as well.]()
+1. [Create a replica set](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-17.md#1-create-a-replica-set)
+2. [Expose it using LoadBalancer service](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-17.md#2-expose-it-using-loadbalancer-service)
+3. [Change the number replicas and verify](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-17.md#3-change-the-number-replicas-and-verify)
+4. [Remove the pods and verify if new pods are getting created automatically.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-17.md#4-remove-the-pods-and-verify-if-new-pods-are-getting-created-automatically)
+5. [Perform the same task using Declarative approach as well.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-17.md#5-perform-the-same-task-using-declarative-approach-as-well)
 
 ## Task-18
 
-1. [Create a Deployment and expose it using LoadBalancer service.]()
-2. [Set a different image for a new rollout.]()
-3. [Rollback to the previous deployment.]()
+1. [Create a Deployment and expose it using LoadBalancer service.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-18.md#1-create-a-deployment-and-expose-it-using-loadbalancer-service)
+2. [Set a different image for a new rollout.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-18.md#2-set-a-different-image-for-a-new-rollout)
+3. [Rollback to the previous deployment.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-18.md#3-rollback-to-the-previous-deployment)
 
 ## Task-19
 
-1. [Set up an organization over Azure DevOps services and create a public project (Note: Use Agile Process)]()
-2. [Create multiple work items and create hierarchy among these work items.]()
-3. [Create a sprint over Azure Boards.]()
-4. [R&D on distinguished scope of access to Azure DevOps Organization.]()
+1. [Set up an organization over Azure DevOps services and create a public project (Note: Use Agile Process)](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-19.md#1-set-up-an-organization-over-azure-devops-services-and-create-a-public-project-note-use-agile-process)
+2. [Create multiple work items and create hierarchy among these work items.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-19.md#2-create-multiple-work-items-and-create-hierarchy-among-these-work-items)
+3. [Create a sprint over Azure Boards.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-19.md#3-create-a-sprint-over-azure-boards)
+4. [R&D on distinguished scope of access to Azure DevOps Organization.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-19.md#4-rd-on-distinguished-scope-of-access-to-azure-devops-organization)
 
 ## Task-20
 
-1. [Create a project with different user groups and implement group policies.]()
-2. [Apply branch policies that only project administrator can access master branch, and contributors cannot have access.]()
+1. [Create a project with different user groups and implement group policies.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-20.md#1-create-a-project-with-different-user-groups-and-implement-group-policies)
+2. [Apply branch policies that only project administrator can access master branch, and contributors cannot have access.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-20.md#2-apply-branch-policies-that-only-project-administrator-can-access-master-branch-and-contributors-cannot-have-access)
 
 ## Task-21
 
-1. [Create a repository over Azure Repos with two separate branches.]()
-2. [Commit some basic application code on these branches with different Runtime Stack.]()
-3. [Deploy this application code onto two different Azure App services by setting up Azure DevOps CI/CD pipelines for both deployments (Note: Using Classic editor).]()
+1. [Create a repository over Azure Repos with two separate branches.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-21.md#1-create-a-repository-over-azure-repos-with-two-separate-branches)
+2. [Commit some basic application code on these branches with different Runtime Stack.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-21.md#2-commit-some-basic-application-code-on-these-branches-with-different-runtime-stack)
+3. [Deploy this application code onto two different Azure App services by setting up Azure DevOps CI/CD pipelines for both deployments (Note: Using Classic editor).](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-21.md#3-deploy-this-application-code-onto-two-different-azure-app-services-by-setting-up-azure-devops-cicd-pipelines-for-both-deployments-note-using-classic-editor)
 
 ## Task-22
 
-1. [Deploy a .NET microservice application on Kubernetes service using Azure pipelines.]()
+1. [Deploy a .NET microservice application on Kubernetes service using Azure pipelines.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-22.md#1-deploy-a-net-microservice-application-on-kubernetes-service-using-azure-pipelines)
 
 ## Task-23
 
-1. [Apply security on branches that contributors can create a pull request but cannot directly merge code to master.]()
-2. [Apply security on branches that contributors can create a pull request but cannot directly merge code to master]()
+1. [Apply security on branches that contributors can create a pull request but cannot directly merge code to master.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-23.md#1-apply-security-on-branches-that-contributors-can-create-a-pull-request-but-cannot-directly-merge-code-to-master)
 
 ## Task-24
 
-1. [Apply approval gates in pipelines]()
-2. [Apply branch filters and path filters]()
+1. [Apply approval gates in pipelines](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-24.md#1-apply-approval-gates-in-pipelines)
+2. [Apply branch filters and path filters](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-24.md#2-apply-branch-filters-and-path-filters)
 
 ## Task-25
 
-1. [Use work items in pipelines.]()
+1. [Use work items in pipelines.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-25.md#1-use-work-items-in-pipelines)
 
 ## Task-26
 
-1. [Use Pipeline variable while configuring pipelines.]()
+1. [Use Pipeline variable while configuring pipelines.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-26.md#1-use-pipeline-variable-while-configuring-pipelines)
 
 ## Task-27
 
-1. [Use variable and task groups in pipelines and set scopes for different stages]()
+1. [Use variable and task groups in pipelines and set scopes for different stages](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-27.md#1-use-variable-and-task-groups-in-pipelines-and-set-scopes-for-different-stages)
 
 ## Task-28
 
-1. [Create a containerized web app for .NET/Python/Java/Node.js (Note: Use GitHub as a SCM tool)]()
-2. [Deploy the application code on Azure Kubernetes Services.]()
+1. [Create a containerized web app for .NET/Python/Java/Node.js (Note: Use GitHub as a SCM tool)](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-28.md#1-create-a-containerized-web-app-for-netpythonjavanodejs-note-use-github-as-a-scm-tool)
+2. [Deploy the application code on Azure Kubernetes Services.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-28.md#2-deploy-the-application-code-on-azure-kubernetes-services)
 
 ## Task-29
 
