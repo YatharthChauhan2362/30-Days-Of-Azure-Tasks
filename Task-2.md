@@ -32,17 +32,31 @@ To create private and public subnets in an existing VNet in Azure, you can use t
 - Open a command-line interface and log in to your Azure account using the "az login" command.
 - Use the "az network vnet subnet create" command to create the private subnet and specify the VNet name, subnet name, and IP address range.
 
-  az network vnet subnet create --vnet-name MyVNet --name PrivateSubnet --address-prefix 10.0.1.0/24
+e.g:
+
+    az network vnet subnet create --vnet-name MyVNet --name PrivateSubnet --address-prefix 10.0.1.0/24
 
 - Use the same command to create the public subnet and specify the VNet name, subnet name, and IP address range
 
-  az network vnet subnet create --vnet-name MyVNet --name PublicSubnet --address-prefix 10.0.2.0/24
+e.g:
+
+    az network vnet subnet create --vnet-name MyVNet --name PublicSubnet --address-prefix 10.0.2.0/24
 
 ### Azure PowerShell:
 
 - Open a PowerShell prompt and log in to your Azure account using the "Connect-AzAccount" command.
-- Use the "New-AzVirtualNetworkSubnetConfig" cmdlet to create a new subnet configuration for the private subnet and specify the name and IP address range (e.g. "New-AzVirtualNetworkSubnetConfig -Name PrivateSubnet -AddressPrefix 10.0.1.0/24").
-- Use the "New-AzVirtualNetworkSubnet" cmdlet to create the private subnet and specify the VNet name and the subnet configuration created above (e.g. "New-AzVirtualNetworkSubnet -Name PrivateSubnet -VirtualNetwork $vnet -AddressPrefix 10.0.1.0/24").
+- Use the "New-AzVirtualNetworkSubnetConfig" cmdlet to create a new subnet configuration for the private subnet and specify the name and IP address range
+
+e.g.
+
+    New-AzVirtualNetworkSubnetConfig -Name PrivateSubnet -AddressPrefix 10.0.1.0/24
+
+- Use the "New-AzVirtualNetworkSubnet" cmdlet to create the private subnet and specify the VNet name and the subnet configuration created above
+
+e.g.
+
+    New-AzVirtualNetworkSubnet -Name PrivateSubnet -VirtualNetwork $vnet -AddressPrefix 10.0.1.0/24
+
 - Repeat the above steps for creating public subnet
 
 ### Tutorial Link:
