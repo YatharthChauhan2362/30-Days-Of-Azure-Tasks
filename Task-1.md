@@ -53,3 +53,13 @@ Here are the general steps for creating a VM in Azure using the Azure Portal:
 - Click on the "Review + Create" button to review the settings and create the VM.
 - Wait for the VM to be created, then go to the VM overview page and click on the "Connect" button to access the VM using Remote Desktop Protocol (RDP).
 - Once you are connected to the VM, you can use the VM as you would use any other Windows machine.
+
+To communicate with two Virtual Machines (VMs) in the same Virtual Network (VNet):
+
+- You can use the internal IP addresses of the VMs. These IP addresses are automatically assigned by Azure and are only accessible within the VNet.
+- You can also use the hostnames of the VMs if you have set them up.
+- Additionally, you can create Network Security Groups (NSGs) to control inbound and outbound traffic to the VMs.
+
+### Tutorial Link:
+
+- [How to communicate with 2 VM's in same VNet](https://www.youtube.com/watch?v=qrdxYBgHi5A)
