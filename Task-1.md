@@ -62,4 +62,4 @@ To communicate with two Virtual Machines (VMs) in the same Virtual Network (VNet
 
 ### Tutorial Link:
 
-- [How to communicate with 2 VM's in same VNet](https://www.youtube.com/watch?v=qrdxYBgHi5A)
+- [How to communicate with two VM's in same VNet](https://www.youtube.com/watch?v=qrdxYBgHi5A)
