@@ -64,3 +64,39 @@ e.g.
 - [Azure Vnet Creations With Public and Private Subnets](https://www.youtube.com/watch?v=tv49WXZOAWM)
 
 # 2. Create a VM and attach multiple NIC with it
+
+A Network Interface Card (NIC) in Azure is a virtual network adapter that is used to connect a virtual machine (VM) or a scale set to a virtual network (VNet) and to the internet.
+
+- A NIC enables communication between the VM or scale set and other resources within the VNet, as well as with resources outside the VNet, such as the internet.
+
+- Each NIC has a unique IP address and can be associated with one or more IP configurations, each of which has its own IP address and subnet. The NIC can also be associated with one or more security groups, which can be used to control inbound and outbound network traffic.
+
+- When you create a virtual machine in Azure, a NIC is automatically created and associated with the VM. You can also create additional NICs and associate them with a VM if needed.
+
+- You can create, view, and manage NICs using the Azure Portal, Azure CLI, Azure PowerShell, or Azure SDKs.
+
+It's worth noting that NICs are not only used for virtual machines, but also for other resources such as Azure Kubernetes Services (AKS) and Azure App Service, which also need network connectivity.
+
+- Log in to the Azure portal ***https://portal.azure.com***
+
+- Click on the "Create a resource" button in the top left corner of the screen
+
+- In the search bar, type "virtual machine" and select the "Virtual Machines" option from the list
+
+- On the "Create a virtual machine" page, fill in the required information such as VM name, region, and resource group
+
+- Under "Size", select a size that meets your requirements and supports multiple NICs
+
+- In the "Networking" section, select "Add NIC" to add additional NICs to the VM
+
+- Fill in the required information for each NIC, such as the name, IP configuration, and virtual network
+
+- Once all NICs have been added, click on the "Review + create" button to review the settings
+
+- On the "Review + create" page, verify that all information is correct and click on the "Create" button to create the VM
+
+- Wait for the deployment to complete and then go to the VM's "Networking" tab to verify that the NICs have been attached correctly.
+
+### Tutorial Link:
+
+- [Azure VM with multiple network interface (NIC)](https://www.youtube.com/watch?v=xOnqZsLvN_E)
