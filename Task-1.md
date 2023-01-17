@@ -16,8 +16,6 @@
 
 ### To create a Vnet and set up a subnet on the created Vnet in Azure, you can use the Azure Portal, Azure CLI, or Azure PowerShell.
 
-Here is an example of how to create a Vnet and a subnet using Azure CLI:
-
 First, log in to your Azure account using the command **_az login_**
 
 Create a resource group with the command
@@ -39,3 +37,19 @@ Verify the Vnet and subnet with the command
 ### Tutorial Link:
 
 - [How to Create Azure Virtual Network and Subnet](https://www.youtube.com/watch?v=7mn8WDoAMJU&t=2s)
+
+# 2. Create a VM on the subnet and access VM
+
+To create a VM on a subnet in Azure, you can use the Azure Portal, Azure PowerShell, or Azure CLI.
+
+Here are the general steps for creating a VM in Azure using the Azure Portal:
+
+- Log in to the Azure Portal **_(https://portal.azure.com/)_**
+- Click on the "Create a resource" button on the top left corner of the screen.
+  In the search bar, type "Windows Server" and select the latest version of the Windows Server operating system.
+- Fill in the required fields for the VM, including the subscription, resource group, and VM name.
+  Under the "Settings" section, select the subnet where you want to create the VM.
+- Select the size of the VM that you want to use.
+- Click on the "Review + Create" button to review the settings and create the VM.
+- Wait for the VM to be created, then go to the VM overview page and click on the "Connect" button to access the VM using Remote Desktop Protocol (RDP).
+- Once you are connected to the VM, you can use the VM as you would use any other Windows machine.
