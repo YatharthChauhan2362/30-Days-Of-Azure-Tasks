@@ -17,7 +17,7 @@
 
 ## Task-3
 
-1. [Create multiple VMs (i.e.) VM1 and VM2 in two different Virtual networks.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-3.md#1-create-private-and-public-subnets-in-the-above-created-vnet)
+1. [Create multiple VMs (i.e.) VM1 and VM2 in two different Virtual networks.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-3.md#1-create-multiple-vms-ie-vm1-and-vm2-in-two-different-virtual-networks)
 2. [Create a Network Security Group to establish connection among VMs to ping each other and understand how the priority works.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-3.md#2-create-a-network-security-group-to-establish-connection-among-vms-to-ping-each-other-and-understand-how-the-priority-works)
 
 ## Task-4
