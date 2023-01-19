@@ -1,3 +1,4 @@
+# TASK-2
 # 1. Create Private and Public Subnets in the above created Vnet
 
 Virtual network (VNet) is a representation of a network in the cloud. Within a VNet, you can create one or more subnets. These subnets can be either private or public.
@@ -18,25 +19,25 @@ To create private and public subnets in an existing VNet in Azure, you can use t
 
 ### Azure Portal:
 
-- Log in to the Azure Portal and navigate to the virtual network you want to create the subnets in.
-- Select "Subnets" under the "Settings" section.
-- Click the "+Add" button to create a new subnet.
-- In the "Name" field, enter a name for the subnet (e.g. "PrivateSubnet").
-- In the "Address range" field, enter the range of IP addresses for the subnet (e.g. 10.0.1.0/24).
-- Select the virtual network from the "Virtual network" drop-down menu.
-- Select the "No" for "Assign public IP address" for the private subnet
-- Repeat the above steps for creating Public subnet, but select "yes" for "Assign public IP address"
+1. Log in to the Azure Portal and navigate to the virtual network you want to create the subnets in.
+2. Select "Subnets" under the "Settings" section.
+3. Click the "+Add" button to create a new subnet.
+4. In the "Name" field, enter a name for the subnet (e.g. "PrivateSubnet").
+5. In the "Address range" field, enter the range of IP addresses for the subnet (e.g. 10.0.1.0/24).
+6. Select the virtual network from the "Virtual network" drop-down menu.
+7. Select the "No" for "Assign public IP address" for the private subnet
+8. Repeat the above steps for creating Public subnet, but select "yes" for "Assign public IP address"
 
 ### Azure CLI:
 
-- Open a command-line interface and log in to your Azure account using the "az login" command.
-- Use the "az network vnet subnet create" command to create the private subnet and specify the VNet name, subnet name, and IP address range.
+1. Open a command-line interface and log in to your Azure account using the "az login" command.
+2. Use the "az network vnet subnet create" command to create the private subnet and specify the VNet name, subnet name, and IP address range.
 
 e.g:
 
     az network vnet subnet create --vnet-name MyVNet --name PrivateSubnet --address-prefix 10.0.1.0/24
 
-- Use the same command to create the public subnet and specify the VNet name, subnet name, and IP address range
+3. Use the same command to create the public subnet and specify the VNet name, subnet name, and IP address range
 
 e.g:
 
@@ -44,20 +45,20 @@ e.g:
 
 ### Azure PowerShell:
 
-- Open a PowerShell prompt and log in to your Azure account using the "Connect-AzAccount" command.
-- Use the "New-AzVirtualNetworkSubnetConfig" cmdlet to create a new subnet configuration for the private subnet and specify the name and IP address range
+1. Open a PowerShell prompt and log in to your Azure account using the "Connect-AzAccount" command.
+2. Use the "New-AzVirtualNetworkSubnetConfig" cmdlet to create a new subnet configuration for the private subnet and specify the name and IP address range
 
 e.g.
 
     New-AzVirtualNetworkSubnetConfig -Name PrivateSubnet -AddressPrefix 10.0.1.0/24
 
-- Use the "New-AzVirtualNetworkSubnet" cmdlet to create the private subnet and specify the VNet name and the subnet configuration created above
+3. Use the "New-AzVirtualNetworkSubnet" cmdlet to create the private subnet and specify the VNet name and the subnet configuration created above
 
 e.g.
 
     New-AzVirtualNetworkSubnet -Name PrivateSubnet -VirtualNetwork $vnet -AddressPrefix 10.0.1.0/24
 
-- Repeat the above steps for creating public subnet
+4. Repeat the above steps for creating public subnet
 
 ### Tutorial Link:
 
@@ -77,25 +78,25 @@ A Network Interface Card (NIC) in Azure is a virtual network adapter that is use
 
 It's worth noting that NICs are not only used for virtual machines, but also for other resources such as Azure Kubernetes Services (AKS) and Azure App Service, which also need network connectivity.
 
-- Log in to the Azure portal ***https://portal.azure.com***
+1. Log in to the Azure portal (https://portal.azure.com/)
 
-- Click on the "Create a resource" button in the top left corner of the screen
+2. Click on the "Create a resource" button in the top left corner of the screen
 
-- In the search bar, type "virtual machine" and select the "Virtual Machines" option from the list
+3. In the search bar, type "virtual machine" and select the "Virtual Machines" option from the list
 
-- On the "Create a virtual machine" page, fill in the required information such as VM name, region, and resource group
+4. On the "Create a virtual machine" page, fill in the required information such as VM name, region, and resource group
 
-- Under "Size", select a size that meets your requirements and supports multiple NICs
+5. Under "Size", select a size that meets your requirements and supports multiple NICs
 
-- In the "Networking" section, select "Add NIC" to add additional NICs to the VM
+6. In the "Networking" section, select "Add NIC" to add additional NICs to the VM
 
-- Fill in the required information for each NIC, such as the name, IP configuration, and virtual network
+7. Fill in the required information for each NIC, such as the name, IP configuration, and virtual network
 
-- Once all NICs have been added, click on the "Review + create" button to review the settings
+8. Once all NICs have been added, click on the "Review + create" button to review the settings
 
-- On the "Review + create" page, verify that all information is correct and click on the "Create" button to create the VM
+9. On the "Review + create" page, verify that all information is correct and click on the "Create" button to create the VM
 
-- Wait for the deployment to complete and then go to the VM's "Networking" tab to verify that the NICs have been attached correctly.
+10. Wait for the deployment to complete and then go to the VM's "Networking" tab to verify that the NICs have been attached correctly.
 
 ### Tutorial Link:
 
