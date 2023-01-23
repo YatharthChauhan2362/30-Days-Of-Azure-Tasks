@@ -13,7 +13,7 @@ There are several types of VPNs that can be created in Azure:
 
 - This type of VPN allows individual clients to connect to an Azure Virtual Network from a remote location. 
 - It uses Secure Socket Tunneling Protocol (SSTP) or Internet Protocol security (IPsec) to establish the connection.
-
+  
 2.	Site-to-Site (S2S): 
 
 - This type of VPN allows for a connection between an on-premises network and an Azure Virtual Network. 
