@@ -146,4 +146,8 @@ An Availability Set in Azure is a feature that ensures that virtual machines (VM
 
 - By using an Availability Set, you can ensure that your VMs are protected against unplanned maintenance and infrastructure failures, providing a high availability solution for your application or service.
 
-# 5. Create an External and Internal Load Balancer and verify it is working.
+### Tutorial Link:
+
+- [Deploy Azure Virtual Machines In Availability Set & Avaiability Zone](https://www.youtube.com/watch?v=YUOgcB339iA&ab_channel=K21Academy)
+
+

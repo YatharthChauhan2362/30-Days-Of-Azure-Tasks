@@ -48,7 +48,6 @@
 2. [Web-Tier: Linux VM, Windows VM.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-8.md#2-web-tier-linux-vm-windows-vm)
 3. [Data-Tier: SQL DB](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-8.md#3-data-tier-sql-db)
 4. [Launch VMS into Availability Set](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-8.md#4-launch-vms-into-availability-set)
-5. [Create an External and Internal Load Balancer and verify it is working.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-8.md#5-create-an-external-and-internal-load-balancer-and-verify-it-is-working)
 
 ## Task-9
 

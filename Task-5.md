@@ -1,5 +1,7 @@
 # 1. Learn about Load balancer and their types
 
+
+
 Azure Load Balancer is a fully managed service in Azure that enables you to distribute incoming traffic across multiple virtual machines (VMs) in a load-balanced set. 
 - The load balancer distributes incoming traffic across VMs in the load-balanced set based on a configurable algorithm, such as round-robin or least connections. 
 - This helps ensure that no single VM is overwhelmed with too much traffic, and that all VMs are utilized effectively.
