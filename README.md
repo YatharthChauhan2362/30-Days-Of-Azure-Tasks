@@ -52,7 +52,6 @@
 ## Task-9
 
 1. [Create a VHD of an existing VM and store](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-9.md#1-create-a-vhd-of-an-existing-vm-and-store)
-2. [it into Storage Account and using that VHD Create a new VM.](https://github.com/YatharthChauhan2362/30-Days-Of-Azure-Tasks/blob/main/Task-9.md#2-it-into-storage-account-and-using-that-vhd-create-a-new-vm)
 
 ## Task-10
 
