@@ -26,6 +26,10 @@ Here are the general steps to create a sample .NET application and host it on Az
 
 12.	Follow the instructions to deploy your application to the App Service
 
+### Tutorial Link:
+
+- [How to deploy.Net Core Web Application to Azure App Services](https://youtu.be/811s_WccyH4)
+
 
 # 2. Create an application gateway and access Azure App service through Azure Application gateway.
 
@@ -50,4 +54,8 @@ Here are the general steps to create an application gateway and access an Azure 
 9.	Update the DNS settings or CNAME records to point to the public IP address or FQDN of the application gateway.
 
 10.	Now you can access your Azure App Service through the application gateway by using the public IP address or FQDN in the browser.
+
+### Tutorial Link:
+
+- [Configuring Application Gateway](https://youtu.be/bPyH0W5oDT8)
 
