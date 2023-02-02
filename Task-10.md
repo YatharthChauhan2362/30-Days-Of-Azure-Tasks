@@ -59,7 +59,9 @@ To create a VM using the Azure portal, follow these steps:
 
 Please make sure you have the latest Azure PowerShell and Azure CLI version installed on your machine, also Azure subscription and necessary permissions are required. -->
 
+### Tutorial Link:
 
+- [How to setup connection between 2 VMs in same subnet and in different subnet in one Vnet](https://youtu.be/CdqN4TYKmYI)
 
 # 2. Schedule a Daily backup of VM at 3:AM using vault
 
@@ -130,6 +132,7 @@ Also, note that the above commands sets up the schedule and policy but it doesn'
 
 # 3. Create an Alert rule for VM CPU percentage.
 
+
 ##### Using Azure Portal:
 
 1.	Go to the Azure portal (https://portal.azure.com/)
@@ -151,7 +154,6 @@ Also, note that the above commands sets up the schedule and policy but it doesn'
 9.	Select the "Action Group" or create a new one
 
 10.	Fill out the details for the alert rule, including the name and description, and click on "Create"
-
 
 # 4. Criteria: CPU% More Than 80%, There Should be an alert on email.
 
@@ -180,4 +182,8 @@ Also, note that the above commands sets up the schedule and policy but it doesn'
 11.	Fill the email Id/ phone number where you want to receive an alert
 
 12.	Fill out the details for the alert rule, including the name and description, and click on "Create"
+
+-[CPU Memory and Disk Monitoring in Azure](https://www.youtube.com/watch?v=HvoJfvTDSkM&ab_channel=TechKnowledge-Tushar%27sVlog)
+
+- [Alerting Rule - CPU Memory and Disk Usage Email Alerts in Azure](https://youtu.be/NRWl7SxS5YE)
 
